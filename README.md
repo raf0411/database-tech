@@ -4,5 +4,6 @@ This Repo contains table normalization as an Assurance of Learning for course Da
 
 ## Tools
 * Excel
+* MySQL
 * XAMPP
 * Kaggle
