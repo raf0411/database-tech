@@ -1,4 +1,4 @@
-# Pattern Software Design Final Lab Project
+# Database Technology Assurance of Learning
 
 This Repo contains table normalization as an Assurance of Learning for course Database Technology
 
